@@ -1,0 +1,2 @@
+# AndroidBluetoothDemo
+通过蓝牙传输，用手机APP控制秉火指南者系列开发板STM32实现亮灭LED灯和响停蜂鸣器
